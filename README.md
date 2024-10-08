@@ -2,7 +2,7 @@ Calculadora de Operaciones Geométricas
 
 ## Descripción
 
-Este proyecto es una calculadora de operaciones geométricas que permite a los usuarios calcular el área y el perímetro de diferentes figuras geométricas, incluyendo cuadrados, círculos, triángulos, rectángulos y trapecios. 
+Este proyecto es una calculadora de operaciones geométricas que permite al usuario calcular el área y el perímetro de diferentes figuras geométricas, incluyendo cuadrados, círculos, triángulos, rectángulos y trapecios. 
 
 1. Funcionalidades
 
