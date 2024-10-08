@@ -53,11 +53,6 @@ namespace _4_OperatorsExpressionsStatements
             {
             }
 
-
-            //there are two "conditional" ooperators as well that can
-            // be used to expand / enhance an evaluation...
-            //... and they can be combined together multiple times
-
             //contional AND operator
             if ((x > y) && (a > b))
             {
@@ -68,9 +63,7 @@ namespace _4_OperatorsExpressionsStatements
             {
             }
 
-            //also, hre's the in-line condinational operator we
-            // learned about in previous lesson...
-            string message = (x == 1) ? "car" : "Boat";
+            //string message = (x == 1) ? "car" : "Boat";
 
             //Member access and Method invocation
             Console.WriteLine("hi");
